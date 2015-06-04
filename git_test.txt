@@ -1,3 +1,4 @@
 Learn git howto
 by Lancer@thundersoft
 what's the next
+understand git stage
